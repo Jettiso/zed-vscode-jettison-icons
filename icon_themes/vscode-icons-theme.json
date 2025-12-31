@@ -1,4 +1,4 @@
-{
+
   "$schema": "https://zed.dev/schema/icon_themes/v0.2.0.json",
   "name": "VSCode Great Icons Theme",
   "author": "Randa Zraik",
@@ -325,8 +325,8 @@
         "phar": "php",
         "py": "python",
         "pyw": "python",
-        "jsx": "react",
-        "tsx": "react_alt",
+        "jsx": "solid",
+        "tsx": "solid",
         "r": "rlang",
         "R": "rlang",
         "RData": "rlang",
@@ -1129,6 +1129,7 @@
         "pug": { "path": "./icons/pug.png" },
         "razor": { "path": "./icons/razor.png" },
         "react_alt": { "path": "./icons/react-alt.svg" },
+        "solid": { "path": "./icons/solid.svg" },
         "rlang": { "path": "./icons/rlang.png" },
         "settings-red": { "path": "./icons/settings-red.svg" },
         "shell": { "path": "./icons/shell.png" },
