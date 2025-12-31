@@ -4,7 +4,7 @@
   "author": "Jettison",
   "themes": [
     {
-      "name": "VSCode Jettison Icons Theme",
+      "name": "Jettison Icons Theme",
       "appearance": "dark",
       "directory_icons": {
         "collapsed": "./icons/folder.svg",
